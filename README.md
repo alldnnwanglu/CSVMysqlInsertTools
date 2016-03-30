@@ -1,3 +1,1 @@
-# CSVMysqlInsertTools
-C# 图形界面插入数据库
-
+用来把 csv 数据插入到数据库中。
